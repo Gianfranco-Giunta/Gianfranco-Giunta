@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ciao, sono Giunta Gianfranco! 👋
 
-<!--
-**Gianfranco-Giunta/Gianfranco-Giunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono un neolaureato in Ingegneria Informatica, appassionato di sviluppo software e in continua crescita nel mondo dello sviluppo Full Stack.  
+Amo lavorare con C#, Java, PHP e sto ampliando le mie competenze nello sviluppo di applicazioni web e giochi con Unity.
 
-Here are some ideas to get you started:
+## Tecnologie principali
+- **C#**, **Unity** (sviluppo giochi 2D/3D)
+- **HTML**, **CSS**, **JavaScript** (Frontend di base)
+- **PHP**, **Laravel**
+- **Java**, **Spring Boot**
+- **MySQL** / **SQL Server** (Database)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatti
+- **Email**: gianfrancogiunta2004@gmail.com
+
+---
+
+Grazie per aver visitato il mio profilo! Sono sempre aperto a nuove collaborazioni e progetti stimolanti.
